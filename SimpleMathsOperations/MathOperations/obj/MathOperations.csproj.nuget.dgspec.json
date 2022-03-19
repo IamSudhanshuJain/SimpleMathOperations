@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Presentations\\Unit Testing\\Practical_Examples\\SimpleMathsOperations\\MathOperations\\MathOperations.csproj": {}
+    "D:\\Presentations\\Unit Testing\\Practical_Examples\\ServiceRepo\\SimpleMathOperations\\SimpleMathsOperations\\MathOperations\\MathOperations.csproj": {}
   },
   "projects": {
-    "D:\\Presentations\\Unit Testing\\Practical_Examples\\SimpleMathsOperations\\MathOperations\\MathOperations.csproj": {
+    "D:\\Presentations\\Unit Testing\\Practical_Examples\\ServiceRepo\\SimpleMathOperations\\SimpleMathsOperations\\MathOperations\\MathOperations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Presentations\\Unit Testing\\Practical_Examples\\SimpleMathsOperations\\MathOperations\\MathOperations.csproj",
+        "projectUniqueName": "D:\\Presentations\\Unit Testing\\Practical_Examples\\ServiceRepo\\SimpleMathOperations\\SimpleMathsOperations\\MathOperations\\MathOperations.csproj",
         "projectName": "MathOperations",
-        "projectPath": "D:\\Presentations\\Unit Testing\\Practical_Examples\\SimpleMathsOperations\\MathOperations\\MathOperations.csproj",
+        "projectPath": "D:\\Presentations\\Unit Testing\\Practical_Examples\\ServiceRepo\\SimpleMathOperations\\SimpleMathsOperations\\MathOperations\\MathOperations.csproj",
         "packagesPath": "C:\\Users\\SJain\\.nuget\\packages\\",
-        "outputPath": "D:\\Presentations\\Unit Testing\\Practical_Examples\\SimpleMathsOperations\\MathOperations\\obj\\",
+        "outputPath": "D:\\Presentations\\Unit Testing\\Practical_Examples\\ServiceRepo\\SimpleMathOperations\\SimpleMathsOperations\\MathOperations\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SJain\\AppData\\Roaming\\NuGet\\NuGet.Config",
